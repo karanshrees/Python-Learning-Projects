@@ -41,19 +41,22 @@ python number_guessing_game.py
 
 ---
 
-## How to Run Any Project
+### 3. To-Do List (03-To-Do-List)
+A simple command-line to-do list application to manage your daily tasks.
 
-Each project has its own folder with:
-- Python file(s)
-- README.md with instructions
+**Status:** ✅ Complete
 
-Just navigate to the folder and run the Python file!
-
-**Example:**
+**How to run:**
 ```bash
-cd 01-Calculator
-python simple_calculator.py
+cd 03-To-Do-List
+python to_do_list.py
 ```
+
+**What it does:**
+- Add new tasks
+- View all tasks with numbers
+- Remove completed tasks
+- Menu-driven interface
 
 ---
 
