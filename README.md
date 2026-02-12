@@ -60,6 +60,25 @@ python to_do_list.py
 
 ---
 
+### 4. Simple Password Generator (04-Simple-Password-Generator)
+A command-line tool to generate secure random passwords with customizable options.
+
+**Status:** ✅ Complete
+
+**How to run:**
+```bash
+cd 04-Simple-Password-Generator
+python simple_password_generator.py
+```
+
+**What it does:**
+- Asks for password length
+- Lets you choose character types (lowercase, uppercase, numbers, symbols)
+- Generates a random secure password
+- Validates all inputs
+
+---
+
 ## Future Projects
 
 More projects coming soon! 🚀
