@@ -79,6 +79,27 @@ python simple_password_generator.py
 
 ---
 
+### 5. Contact Book (05-Contact-Book)
+A comprehensive command-line contact book application to manage your contacts and phone numbers.
+
+**Status:** ✅ Complete
+
+**How to run:**
+```bash
+cd 05-Contact-Book
+python contact_book.py
+```
+
+**What it does:**
+- Add contacts with multiple phone numbers
+- View all contacts in sorted order
+- Search contacts by name or phone number
+- Delete entire contact or specific numbers
+- Detects duplicate numbers across contacts
+- Normalizes phone numbers for accurate matching
+
+---
+
 ## Future Projects
 
 More projects coming soon! 🚀
