@@ -100,6 +100,29 @@ python contact_book.py
 
 ---
 
+### 6. Student Result Manager (06-Student-Result-Manager)
+A command-line application to manage student marks, calculate averages, and maintain persistent records with delete functionality.
+
+**Status:** ✅ Complete
+
+**How to run:**
+```bash
+cd 06-Student-Result-Manager
+python student_result_manager.py
+```
+
+**What it does:**
+- Add student names and marks for 3 subjects
+- Calculate average marks automatically
+- Determine pass/fail status (all subjects >= 40)
+- Display results in formatted output
+- Save results to file for persistence
+- View all saved student results
+- Delete student results by name (case-insensitive search)
+- Input validation for marks and names
+
+---
+
 ## Future Projects
 
 More projects coming soon! 🚀
