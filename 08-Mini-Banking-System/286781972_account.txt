@@ -1,0 +1,9 @@
+Account Number: 286781972
+Account Holder: Kamala Shrees
+Current Balance: $2300000.0
+
+Transaction History:
+2026-03-23 14:56:53 - Account Created: $0 (Balance: $0)
+2026-03-23 14:58:42 - Transfer In from 382255341: $2000000.0 (Balance: $2000000.0)
+2026-03-23 15:01:58 - Transfer In from 198324334: $400000.0 (Balance: $2400000.0)
+2026-03-23 15:03:59 - Transfer Out to 568677018: $100000.0 (Balance: $2300000.0)

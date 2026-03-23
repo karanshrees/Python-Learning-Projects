@@ -1,0 +1,7 @@
+Account Number: 568677018
+Account Holder: Sumitra Bagale
+Current Balance: $100000.0
+
+Transaction History:
+2026-03-23 15:02:42 - Account Created: $0 (Balance: $0)
+2026-03-23 15:03:59 - Transfer In from 286781972: $100000.0 (Balance: $100000.0)

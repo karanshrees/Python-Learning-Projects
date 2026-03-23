@@ -124,6 +124,34 @@ python student_result_manager.py
 ---
 
 ### 7. Mini Banking System (08-Mini-Banking-System)
+A comprehensive command-line banking application with multiple accounts, file persistence, and full transaction history tracking.
+
+**Status:** ✅ v2.0 Complete
+
+**How to run:**
+```bash
+cd 08-Mini-Banking-System
+python mini_banking_system.py
+```
+
+**What it does:**
+- Create multiple bank accounts with unique auto-generated account numbers
+- Deposit and withdraw money with balance verification
+- Transfer money between accounts
+- Track all transactions with timestamps
+- Save account data to individual files
+- Auto-load accounts on program startup
+- Full transaction history for audit trail
+- Input validation and error handling
+
+**Features:**
+- Multiple Accounts ✅
+- Unique Account Numbers ✅
+- Account Transfers ✅
+- File Persistence ✅
+- Transaction History ✅
+
+---
 A command-line banking application with basic account management features and planned enhancements.
 
 **Status:** ✅ v1.0 Complete | 🔄 Enhancements Planned
@@ -149,7 +177,7 @@ python mini_banking_system.py
 - Save accounts to file
 - Transaction history
 
----
+---------------------------------------------------------
 
 ## Future Projects
 
